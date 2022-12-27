@@ -1,0 +1,8 @@
+body { 
+    /* background: white url(background1.webp) no-repeat top center;*/
+    background-color: lightblue;
+    background-image: url(background1.webp);
+    background-repeat: repeat-x;
+    background-position: top center;
+    background-size: 1500px;
+}

@@ -1,0 +1,16 @@
+h1 {
+    font-family: arial, verdana, sans-serif;
+    font-size: 100px;
+    font-variant: small-caps;
+    font-style: oblique;
+    color: darkgoldenrod;
+    text-decoration: line-through;
+    text-transform: lowercase;
+}
+p {
+    font-family: georgis, serif;
+    text-align: justify;
+    text-indent: 50px;
+    letter-spacing: ;
+
+}

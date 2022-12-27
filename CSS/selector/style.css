@@ -1,0 +1,22 @@
+body {
+    font-family: arial;
+}
+
+h1, h2 {
+    color: green;
+}
+
+ul li a {
+    color: orange;
+}
+ol li a {
+    color: brown;
+}
+#p1 {
+    color: orangered;
+    text-align: justify;
+}
+.p2 {
+    color: aqua;
+    text-align: justify;
+}
