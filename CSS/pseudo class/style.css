@@ -22,3 +22,6 @@ li:first-child a {
 li:last-child a {
     color: rgb(21, 0, 139);
 }
+li:nth-child(3n+1) a {
+    color: brown;
+}
